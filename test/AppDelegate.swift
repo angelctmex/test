@@ -8,7 +8,10 @@
 
 import UIKit
 
-@UIApplicationMain
+// directiva que crea el main - la directiva genera codigo
+// dandole instrucciones al compilador que genere el main - genera lafuncion
+// el objeto que se crea primero es el uiapplication.self
+//@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
